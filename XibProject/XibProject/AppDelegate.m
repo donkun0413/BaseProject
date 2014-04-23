@@ -23,6 +23,9 @@
     
     // レンダリング
     [self.window makeKeyAndVisible];
+	
+	
+	//ちょっとかえてみるよ。
     
     return YES;
 }
